@@ -62,27 +62,30 @@
         </div>
     </div>
 </nav>
-<nav class="navbar nav-dark">
-    <div class="container-fluid">
-        <div>
-            <ul class="nav custom-nav-bottom">
-                <li class="nav-item">
-                    <a href="#" class="nav-link custom-nav-link border-end">Personal</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link custom-nav-link border-end">Business</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link custom-nav-link border-end">Corporate</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link custom-nav-link border-end">Cards</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link custom-nav-link border-end">Digital Banking</a>
-                </li>
-            </ul>
+<div class="mobile-hide">
+    <nav class="navbar nav-dark">
+        <div class="container-fluid">
+            <div>
+                <ul class="nav custom-nav-bottom">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-nav-link border-end">Personal</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-nav-link border-end">Business</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-nav-link border-end">Corporate</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-nav-link border-end">Cards</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link custom-nav-link border-end">Digital Banking</a>
+                    </li>
+                </ul>
+            </div>
+    
         </div>
+    </nav>
+</div>
 
-    </div>
-</nav>

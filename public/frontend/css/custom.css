@@ -194,3 +194,9 @@ li .language-box:hover{
     line-height: normal;
     cursor: pointer;
 }
+
+@media (min-width: 320px) and (max-width: 600px){
+    .mobile-hide{
+        display: none;
+    }
+}
