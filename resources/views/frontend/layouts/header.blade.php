@@ -54,7 +54,24 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact Us</a>
                 </li>
-                
+                <div class="web-hide">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Personal</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Business</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Corporate</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Cards</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Digital Banking</a>
+                    </li>
+                </div>
+               
                 <button type="button" class="custom-button">
                     Login
                 </button>

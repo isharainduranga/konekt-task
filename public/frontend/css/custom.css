@@ -200,3 +200,8 @@ li .language-box:hover{
         display: none;
     }
 }
+@media (min-width: 601px){
+    .web-hide{
+        display: none;
+    }
+}
